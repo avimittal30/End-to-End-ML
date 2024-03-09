@@ -17,3 +17,7 @@ def get_product(x:int, y:int)->int:
 # Without ensure_annotations, this will not through any error and will give wierd output
 get_product(2,"3")
 
+
+from mlProject.utils.common import read_yaml
+from mlProject.constants import *
+read_yaml(CONFIG_FILE_PATH)

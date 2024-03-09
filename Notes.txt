@@ -1,0 +1,4 @@
+Entity file is used to create custom return types
+
+from mlProject.utils.common import read_yaml, create_directories
+read_yaml is written in such a way that key value pairs can be accessed using a '.'

@@ -1,0 +1,30 @@
+from mlProject.config.configuration import ConfigurationManager
+from mlProject.components.data_injestion import DataIngestion
+
+#This is in utils folder
+from mlProject import logger
+
+STAGE_NAME=" Data INGESTION STAGE"
+
+class DataIngestionPipeline:
+    def __init__(self):
+        pass
+    def main(self):   
+        try:
+            config=ConfigurationManager()
+            data_ingestion_config=config.get_data_ingestion_config()
+            data_ingestion=DataIngestion(config=data_ingestion_config)
+            data_ingestion.download_file()
+            data_ingestion.extract_zip_file()
+        except Exception as e:
+            raise e
+        
+
+if __name__=='__main__':
+    try:
+        logger.info(f">>> stage {STAGE_NAME} has started >>>>")
+        obj=DataIngestionPipeline()
+        obj.main()  # to execute the entire pipeline
+        logger.info(f">>>> stage {STAGE_NAME} completed >>>>>")
+    except Exception as e:
+        logger.exception(e)
