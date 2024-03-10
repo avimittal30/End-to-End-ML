@@ -1,0 +1,18 @@
+COLUMNS:
+  CustomerId        : int64  
+  CreditScore       : int64  
+  Gender            : int64  
+  Age               : int64  
+  Tenure            : int64  
+  Balance           : float64
+  NumOfProducts     : int64  
+  HasCrCard         : int64  
+  IsActiveMember    : int64  
+  EstimatedSalary   : float64
+  Geography_Germany : int64  
+  Geography_Spain   : int64
+  Exited            : int64
+   
+
+TARGET_COLUMN:
+  name: Exited
