@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/CICD/End-to-End-ML/mlruns/0/c46272d2e4db4f059ae8e1e9a84e6fa8/artifacts
+end_time: 1710147781119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c46272d2e4db4f059ae8e1e9a84e6fa8
+run_name: placid-hawk-983
+run_uuid: c46272d2e4db4f059ae8e1e9a84e6fa8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710147773988
+status: 3
+tags: []
+user_id: avimi

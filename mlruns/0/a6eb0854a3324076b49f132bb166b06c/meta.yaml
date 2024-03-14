@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/CICD/End-to-End-ML/mlruns/0/a6eb0854a3324076b49f132bb166b06c/artifacts
+end_time: 1710147458514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6eb0854a3324076b49f132bb166b06c
+run_name: overjoyed-fawn-887
+run_uuid: a6eb0854a3324076b49f132bb166b06c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710147448160
+status: 3
+tags: []
+user_id: avimi

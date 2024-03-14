@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/CICD/End-to-End-ML/mlruns/0/a13569b99794432eab956fa2669ca376/artifacts
+end_time: 1710185837693
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a13569b99794432eab956fa2669ca376
+run_name: righteous-seal-680
+run_uuid: a13569b99794432eab956fa2669ca376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710185832357
+status: 3
+tags: []
+user_id: avimi

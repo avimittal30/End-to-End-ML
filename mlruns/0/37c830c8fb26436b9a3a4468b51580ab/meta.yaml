@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/CICD/End-to-End-ML/mlruns/0/37c830c8fb26436b9a3a4468b51580ab/artifacts
+end_time: 1710147448149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37c830c8fb26436b9a3a4468b51580ab
+run_name: dapper-turtle-365
+run_uuid: 37c830c8fb26436b9a3a4468b51580ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710147448071
+status: 3
+tags: []
+user_id: avimi

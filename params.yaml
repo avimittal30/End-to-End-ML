@@ -1,4 +1,4 @@
 GradientBoostingClassifier:
-  max_depth: 6
-  learning_rate: 0.25
+  max_depth: 8
+  learning_rate: 0.3
   

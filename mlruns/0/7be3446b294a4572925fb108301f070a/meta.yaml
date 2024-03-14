@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/CICD/End-to-End-ML/mlruns/0/7be3446b294a4572925fb108301f070a/artifacts
+end_time: 1710185832349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7be3446b294a4572925fb108301f070a
+run_name: righteous-perch-987
+run_uuid: 7be3446b294a4572925fb108301f070a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710185832293
+status: 3
+tags: []
+user_id: avimi

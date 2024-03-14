@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/CICD/End-to-End-ML/mlruns/0/780535f3b02c4ac4b3a041b6084116df/artifacts
+end_time: 1710147773973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 780535f3b02c4ac4b3a041b6084116df
+run_name: puzzled-moose-698
+run_uuid: 780535f3b02c4ac4b3a041b6084116df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710147773776
+status: 3
+tags: []
+user_id: avimi
