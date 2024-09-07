@@ -1,4 +1,4 @@
-# End-to-End-ML
+# End-to-End machine learning model development and deployment for Banking Churn using AWS EC2 instance and ECR services
 End to End implementation with MLflow
 
 
